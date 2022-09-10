@@ -267,9 +267,20 @@ agiq 1.3 mil
 
 برای اکانت های سه حرفی زیر بالای ۱۲ میلیون پیشنهاد بدید:
 
-phu oru gea zfi _tu sij ofp
-tgd igf lum dtr bmy 0va
+phu
+oru
+gea
+zfi
+_tu
+sij
+ofp
+tgd
+igf
+lum
+dtr
+bmy
+0va
 
-ارتباط: @pcjxq
-چنل اعتماد: @pcjxqv
-پورتال: @pcjxqportal
+ارتباط: @pcjxq (telegram, instagram)
+چنل اعتماد: @pcjxqv (telegram)
+پورتال: @pcjxqportal (telegram)
